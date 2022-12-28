@@ -33,3 +33,15 @@
         git status
     </li>
 </ul>
+
+<h2>
+    To setup the github credentials in the terminal
+</h2>
+<ul>
+    <li>
+        git config --global user.name "Alfredo08"
+    </li>
+    <li>
+        git config --global user.email alfredosv08@gmail.com
+    </li>
+</ul>
