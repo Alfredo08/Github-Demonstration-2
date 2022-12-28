@@ -29,4 +29,7 @@
     <li>
         git pull
     </li>
+    <li>
+        git status
+    </li>
 </ul>
